@@ -2,3 +2,4 @@ Sample file
 aded second change
 adding third change
 this msg should be available in new branch "TEST"
+second change in "Test" branch
