@@ -1,4 +1,4 @@
 Sample file 
 aded second change
 adding third change
-adding new change in Main after pusing few commits in TEST branch
+adding new change in Main after pushing few commits in TEST branch
