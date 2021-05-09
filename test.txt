@@ -6,5 +6,10 @@ this msg should be available in new branch "TEST"
 second change in "Test" branch
 
 adding new change in Main after pushing few commits in TEST branch
+
+sc7-adding new data in test branch
+sc7 insert second time in test branch
+
 sc7 sample insert in main branch
+
 
